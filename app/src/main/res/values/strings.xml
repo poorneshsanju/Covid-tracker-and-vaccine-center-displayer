@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoviStat</string>
+    <string name="go_to_vaccine">Go to vaccine</string>
+</resources>
